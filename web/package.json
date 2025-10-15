@@ -2,6 +2,7 @@
   "name": "chatgpt-clone-vite",
   "version": "0.0.1",
   "private": true,
+  "homepage": "/meu-chatgpt-clone",
   "type": "module",
   "scripts": {
     "dev": "vite",
