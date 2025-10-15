@@ -9,7 +9,7 @@ Este é um projeto de clone do ChatGPT, dividido em **`server`** (backend) e **`
 
 - **Frontend**: Create React App (React) + Tailwind CSS.
 
-- # **Backend**: Node.js + Express.
+-  **Backend**: Node.js + Express.
 
 ## 📁 Estrutura de Pastas
 
@@ -51,7 +51,9 @@ Siga os passos abaixo para rodar o frontend e o backend em sua máquina local.
    npm run start
    ```
 
-O backend estará rodando em `http://localhost:5555`. O endpoint principal utilizado pelo frontend é `http://localhost:5555/api/prompt`.
+O backend estará rodando em `http://localhost:5555`. 
+
+O endpoint principal utilizado pelo frontend é `http://localhost:5555/api/prompt`.
 
 ### Frontend (`web`)
 
