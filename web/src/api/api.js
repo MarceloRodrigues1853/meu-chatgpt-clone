@@ -1,6 +1,6 @@
 // src/api/api.js
 import axios from 'axios'
-const URL_API = 'http://localhost:5555/api/prompt'
+const URL_API = 'https://meu-chatgpt-clone.onrender.com/api/prompt'
 
 export const makeRequest = async (message) => {
   try {
